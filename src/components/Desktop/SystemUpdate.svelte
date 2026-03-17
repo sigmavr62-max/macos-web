@@ -13,7 +13,7 @@
 	// If the user click on Later instead Restart, the dialog is closed but the update is still there.
 	// We don't need to store it on localStorage since the new sw is on skip waiting state, and so
 	// a refresh or reopening the browser will prompt again the dialog to restart.
-	// Once updateServiceWorker is called, there is a full reload, so the app will be loaded again.
+	// Once updateServiceWorker is called, there is a full reload, so the app will be loaded again..
 
 	const { needRefresh, updateServiceWorker } = useRegisterSW({
 		onRegistered(swr) {
