@@ -14,7 +14,7 @@
 
 <section class="container">
 	<header class="titlebar app-window-drag-handle">
-		<span>About the Developer</span>
+		<span>About the creator!</span>
 	</header>
 
 	<aside class:light={preferences.theme.scheme === 'light'}>
@@ -38,26 +38,22 @@
 
 		<br />
 
-		<h1>Hi, I'm Puru</h1>
+		<h1>Hi, I'm Polar</h1>
 
 		<h2>
-			I'm the creator of macOS Web, which you're on right now
+			i remixed this project, which this was not made by me
 			<img src="/emojis/wink.png" alt="Wink emoji" class="emoji" />
 		</h2>
 
 		<br /><br />
 
-		<p>
-			I am a fullstack web developer, with an infinite amount of love for frontend web development,
-			esp JavaScript, TypeScript, and for frontend frameworks like Svelte, Vue and React
-			<img src="/emojis/star-struck.png" alt="Star Struck face emoji" class="emoji" />
+		<p>uhh hi :D<img src="/emojis/star-struck.png" alt="Star Struck face emoji" class="emoji" />
 		</p>
 
 		<br /><br />
 
 		<p>
-			However, my love for tech doesn't end there. I enjoy writing backend APIs, scripts, working
-			with databases, and my fav platforms are NodeJS, Deno and Go
+			hi again
 		</p>
 	</section>
 </section>
